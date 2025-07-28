@@ -1,6 +1,6 @@
 # FastHTML RAG (Retrieval-Augmented Generation)
 
-[](fast-rag-1.mp4)
+[uu](fast-rag-1.mp4)
 
 A **FastHTML-powered RAG system** that provides intelligent, context-aware answers about FastHTML framework documentation using **Claude AI** and **real-time streaming responses**.
 
