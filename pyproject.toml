@@ -1,0 +1,23 @@
+[project]
+name = "fasthtml-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "python-fasthtml",
+    "chromadb",
+    "sentence-transformers",
+    "requests",
+    "beautifulsoup4",
+    "lxml",
+    "lancedb",
+    "pyarrow",
+    "numpy",
+    "pandas",
+    "python-dotenv>=1.1.1",
+    "anthropic>=0.58.2",
+    "markdown>=3.8.2",
+    "python-markdown[extra]>=0.1.0",
+    "pygments>=2.19.2",
+]
