@@ -9,25 +9,25 @@ A **FastHTML-powered RAG system** that provides intelligent, context-aware answe
 ## 🚀 Features
 
 ### ✨ **Core Functionality**
-- ** Semantic Search**: Vector-based similarity search using sentence transformers
-- ** AI-Powered Answers**: Real-time streaming responses from Claude AI
-- ** RAG Integration**: Context-aware answers using FastHTML documentation
-- ** Side-by-Side Comparison**: Compare RAG vs non-RAG responses in real-time
-- ** LLM Context Transparency**: View the exact prompts and context sent to Claude
+- **Semantic Search**: Vector-based similarity search using sentence transformers
+- **AI-Powered Answers**: Real-time streaming responses from Claude AI
+- **RAG Integration**: Context-aware answers using FastHTML documentation
+- **Side-by-Side Comparison**: Compare RAG vs non-RAG responses in real-time
+- **LLM Context Transparency**: View the exact prompts and context sent to Claude
 
 ### 🎯 **User Experience**
-- ** Modern UI**: Clean, responsive design with Tailwind CSS
-- ** Real-time Streaming**: Watch answers appear as they're generated
-- ** HTMX-First**: Server-side rendering with minimal JavaScript
-- ** Progressive Markdown**: Real-time markdown rendering with syntax highlighting
-- ** FastHTML Best Practices**: Built following FastHTML conventions
+- **Modern UI**: Clean, responsive design with Tailwind CSS
+- **Real-time Streaming**: Watch answers appear as they're generated
+- **HTMX-First**: Server-side rendering with minimal JavaScript
+- **Progressive Markdown**: Real-time markdown rendering with syntax highlighting
+- **FastHTML Best Practices**: Built following FastHTML conventions
 
 ### 🛠️ **Technical Features**
-- ** LanceDB Vector Storage**: High-performance vector database
-- ** Modular Architecture**: Clean separation of concerns
-- ** Batch Processing**: Automated documentation ingestion
-- ** Web Scraping**: Automatic FastHTML documentation collection
-- ** Secure**: Environment-based API key management
+- **LanceDB Vector Storage**: High-performance vector database
+- **Modular Architecture**: Clean separation of concerns
+- **Batch Processing**: Automated documentation ingestion
+- **Web Scraping**: Automatic FastHTML documentation collection
+- **Secure**: Environment-based API key management
 
 ## 📋 Prerequisites
 
